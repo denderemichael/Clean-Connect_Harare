@@ -36,4 +36,3 @@ dist-ssr
 .env               # local Supabase keys – keep them private
 supabase/migrations/   # migration SQL files – not
 .env.local
-DB migration
